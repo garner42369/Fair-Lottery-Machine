@@ -1,0 +1,2 @@
+# Streamlit Cloud 部署：仅需 Streamlit
+streamlit>=1.30
